@@ -1,0 +1,7 @@
+config.py
+venv/  # Exclude virtual environment directory if using one
+__pycache__/  # Exclude Python cache files
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/ayushivx/mybot.git
+git push -u origin master
